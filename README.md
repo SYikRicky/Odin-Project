@@ -13,4 +13,4 @@ Some of the date is missing, since I started recording my journey on *12-6-2025*
 | Date | Description | Things learnt | File |
 | ----------- | ----------- |----------- | ----------- |
 | 12-6-2025 | Finished the HTML foundation | <ul><li> Tags, headings</li><li>Adding images, links</li></ul>| ../HTML/Foundation|
-| By 12-6-2025 | Finished the Ruby Course | | ../Ruby |
+| By 12-6-2025 | Finished the Ruby Course | <ul><li> Ruby basics</li><li>OOP</li><li>Writing DSA with Ruby</li></ul> | ../Ruby |
