@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc1ca;
+    font-family: "Verdana", "DejaVuSans", sans-serif;
+}
+
+.second-text {
+    color: #4f4fff;
+    font-size: 36px;
+}
+
+#forth-text {
+    background-color: rgb(5, 228, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler {
+    font-size: 24px;
+}
